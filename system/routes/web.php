@@ -21,8 +21,8 @@ Route::get('/details', function () {
     return view('details');
 });
 
-Route::get('/login', function () {
-    return view('login');
+Route::get('/masuk', function () {
+    return view('masuk');
 });
 
 Route::get('/products', function () {
