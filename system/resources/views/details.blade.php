@@ -175,11 +175,6 @@
                         MSI Center provides exclusive Gaming Mode, brand new SmartAuto, and Ambient Silent AI for best user experience. <br>
                         Per-Key RGB gaming keyboard by SteelSeries <br>
                         Duo Wave Speaker design by Dynaudio system</p>
-					<p>It is often frustrating to attempt to plan meals that are designed for one. Despite this fact, we are seeing
-						more and more recipe books and Internet websites that are dedicated to the act of cooking for one. Divorce and
-						the death of spouses or grown children leaving for college are all reasons that someone accustomed to cooking for
-						more than one would suddenly need to learn how to adjust all the cooking practices utilized before into a
-						streamlined plan of cooking that is more efficient for one person creating less</p>
 				</div>
 				<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 					<div class="table-responsive">
